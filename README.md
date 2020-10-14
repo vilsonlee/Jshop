@@ -49,13 +49,13 @@ uni-app简约序模板，全新UI设计，更多交互细节，我们倾尽全�
 智能表单可以为您的线上线下结合提供更强大的助力。
 
 #### 项目演示
-- uniapp简约模板项目地址：https://gitee.com/hnjihai/uniapp
+<!-- - uniapp简约模板项目地址：https://gitee.com/hnjihai/uniapp
 - uniapp简约模板体验地址：https://demo.jihainet.com/wap
 - 前台H5演示：[https://b2c.jihainet.com/](https://b2c.jihainet.com/)
 - 后台演示：[https://b2c.jihainet.com/manage/](https://b2c.jihainet.com/manage/)
 - QQ交流群：823732583（开发手册、接口文档、操作手册请进群查看哦~）
 - 交流社区：[https://bbs.jihainet.com/](https://bbs.jihainet.com/)
-- 小程序体验二维码
+- 小程序体验二维码 -->
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1018/184408_a1c0d706_8503.jpeg "gh_03bc4364b4dc_344.jpg")
 
@@ -63,10 +63,10 @@ uni-app简约序模板，全新UI设计，更多交互细节，我们倾尽全�
 
 ![输入图片说明](https://gitee.com/uploads/images/2019/0409/182147_ecec17d7_8503.png "1554805258.png")
 
-
+<!-- 
 - 安卓APP体验二维码【可进群下载体验】
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1026/163026_31132341_8503.png "1540542519.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1026/163026_31132341_8503.png "1540542519.png") -->
 
 
 
