@@ -43,12 +43,12 @@ uni-app简约序模板，全新UI设计，更多交互细节，我们倾尽全�
 
 
 
-#### 智能表单说明
+<!-- #### 智能表单说明
 智能表单包含有：订单、付款码、留言、反馈、登记、调研这几种类型，可实现店铺收款、门店内扫码下单、活动预约、活动预定、会议登记、在线报名、上课签到等等。
 
-智能表单可以为您的线上线下结合提供更强大的助力。
+智能表单可以为您的线上线下结合提供更强大的助力。 -->
 
-#### 项目演示
+<!-- #### 项目演示 -->
 <!-- - uniapp简约模板项目地址：https://gitee.com/hnjihai/uniapp
 - uniapp简约模板体验地址：https://demo.jihainet.com/wap
 - 前台H5演示：[https://b2c.jihainet.com/](https://b2c.jihainet.com/)
@@ -57,11 +57,11 @@ uni-app简约序模板，全新UI设计，更多交互细节，我们倾尽全�
 - 交流社区：[https://bbs.jihainet.com/](https://bbs.jihainet.com/)
 - 小程序体验二维码 -->
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1018/184408_a1c0d706_8503.jpeg "gh_03bc4364b4dc_344.jpg")
+<!-- ![输入图片说明](https://images.gitee.com/uploads/images/2018/1018/184408_a1c0d706_8503.jpeg "gh_03bc4364b4dc_344.jpg")
 
 - 简约模板体验二维码
 
-![输入图片说明](https://gitee.com/uploads/images/2019/0409/182147_ecec17d7_8503.png "1554805258.png")
+![输入图片说明](https://gitee.com/uploads/images/2019/0409/182147_ecec17d7_8503.png "1554805258.png") -->
 
 <!-- 
 - 安卓APP体验二维码【可进群下载体验】
@@ -70,13 +70,13 @@ uni-app简约序模板，全新UI设计，更多交互细节，我们倾尽全�
 
 
 
-#### 项目截图
+<!-- #### 项目截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/104933_383a7831_8503.png "img(1).png")
 #### 后台截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/104952_d154e8b4_8503.png "首页.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/105206_a2dfa9e2_8503.png "商品列表.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/105222_7caa99b6_8503.png "添加商品.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/105317_82da6a34_8503.png "添加优惠券.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1019/105317_82da6a34_8503.png "添加优惠券.png") -->
 
 
 #### 目录结构
@@ -118,7 +118,7 @@ wwwroot  WEB部署目录（或者子目录）
 ├─crontab               定时任务命令行入口文件
 ~~~
 
-#### 更新说明
+<!-- #### 更新说明
 2020-7-6 v2.3.0
 1. 用户等级升级插件
 2. 库存管理插件
@@ -322,10 +322,10 @@ wwwroot  WEB部署目录（或者子目录）
 53. 商品增加快捷上下架，商品列表排序优化
 54. 增加定时删除7天前日志的功能，增加操作日志批量删除功能
 55. 修复团购秒杀可以添加多个出校条件的问题
-56. 后台样式细节优化
+56. 后台样式细节优化 -->
 
 
-#### 环境要求
+<!-- #### 环境要求
 - Nginx/Apache/IIS
 - PHP7.0-7.2
 - MySQL5.5+
@@ -388,7 +388,7 @@ php think jshop pintuan_cancle
 php think jshop remove_op_log
 ```
 注意1： **think** 必须指定到项目根目录下的 **think** 文件。  
-注意2： Shell命令下的php确保版本在7.0.* ~ 7.3.*之间，其他php版本可能会出现未知错误。  
+注意2： Shell命令下的php确保版本在7.0.* ~ 7.3.*之间，其他php版本可能会出现未知错误。   -->
 
 
 <!-- #### 安全&缺陷
